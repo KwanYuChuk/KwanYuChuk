@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 💻 I usually use R programming, python and a little bit JavaScript.
 
-⚡ Fun fact: I gave mathematics tutorials to financially-difficulty student. Later this student got scholarship and bachelor's position from a university in Hong Kong. I'm proud of her and me.
+⚡ Fun fact: I gave free mathematics tutorials to financially-difficulty student. Later this student got scholarship and bachelor's position from a university in Hong Kong. I'm proud of her and me.
 
 📫 My email: kwanyu.chuk@gmail.com
