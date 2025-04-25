@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 I’m a learner.
+😄 My top 1 CliftonStrength is "Learner". I have a great desire to learn and want to continuously improve. The process of learning rather than the outcome excites me.
 
 🌱 I’m currently studying Environmental Science in UWA, with specilising in Sensing and Spatial Data Science.
 
