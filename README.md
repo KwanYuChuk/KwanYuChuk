@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄 I’m a learner.
+🌱 I’m currently studying Environmental Science in UWA, with specilising in Sensing and Spatial Data Science.
+🔭 I’m currently working as a casual GIS technician in a soil carbon company.
+💻 I usually use R programming, python and a little bit JavaScript.
+⚡ Fun fact: I gave mathematics tutorials to financially-difficulty student. Later this student got scholarship and bachelor's position from a university in Hong Kong. I'm proud of her and me.
+📫 My email: kwanyu.chuk@gmail.com
