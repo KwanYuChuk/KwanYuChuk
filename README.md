@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 😄 My top 1 CliftonStrength is "Learner". I have a great desire to learn and want to continuously improve. The process of learning rather than the outcome excites me.
 
-🌱 I’m GIS specialist.
+🌱 I’m a GIS specialist.
 
 🔭 I’m currently working as a casual GIS technician in a soil carbon company.
 
@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I gave free math tutorials to a financially-difficulty student. Later this student got scholarship and bachelor's position from a university in Hong Kong. I'm proud of her and me.
 
 📫 My email: kwanyu.chuk@gmail.com
+
+與買桂花同載酒，終不似，少年游。
