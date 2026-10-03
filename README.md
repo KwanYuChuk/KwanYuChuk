@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I worked as an assistant surveyor and GIS analyst in Hong Kong and Perth before my Master and PhD studies. Now I'm a PhD student at the University of Western Australia.
+🌱 A PhD student at the University of Western Australia.
 
 ❤️ Research interest: agrivoltaic, microclimate, ecohydrology, remote sensing
 
