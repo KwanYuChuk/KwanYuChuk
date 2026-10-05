@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ❤️ Research interest: agrivoltaic, microclimate, ecohydrology, remote sensing
 
+✨ Personal website: https://kwanyuchuk.github.io/
+
 ✨ Agrivoltaic learning: https://kwanyuchuk.github.io/LearningAgrivoltaic/index.html
 
 📧 kwanyu.chuk@gmail.com
