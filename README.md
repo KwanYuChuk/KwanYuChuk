@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 ✨ Personal website: https://kwanyuchuk.github.io/
 
-✨ Agrivoltaic learning: https://kwanyuchuk.github.io/LearningAgrivoltaic2/index.html
+✨ Agrivoltaic learning: https://kwanyuchuk.github.io/LearningAgrivoltaic2/
+
 
 📧 kwanyu.chuk@gmail.com
 
