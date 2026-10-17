@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🌱 A PhD student at the University of Western Australia.
 
-❤️ Research interest: agrivoltaic, microclimate, ecohydrology, remote sensing
+❤️ Research interest: agrivoltaics, microclimate, ecohydrology, remote sensing
 
 ✨ Personal website: https://kwanyuchuk.github.io/
 
